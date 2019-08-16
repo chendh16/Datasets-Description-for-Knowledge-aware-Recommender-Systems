@@ -39,7 +39,7 @@
 | **Interactions**   | 998034         | 10000          |
 | **Entities**       | 11462          | /              |
 | **Entity Types**   | 4              | /              |
-| **Relation Types** | 6              | 5              |
+| **Relation Types** | 6              | 4              |
 | **Triples**        | 1017030        | 924759         |
 
 > **Link:**
@@ -200,7 +200,7 @@
 | **Interactions**   | 3714655        | 2170690        |
 | **Entities**       | 2851220        | /              |
 | **Entity Types**   | 4              | /              |
-| **Relation Types** | 6              | 6              |
+| **Relation Types** | 6              | 5              |
 | **Triples**        | 11182682       | /              |
 
 > **Note:** V1 is the whole dataset while V2 is processed by removing the songs that have missing description.
