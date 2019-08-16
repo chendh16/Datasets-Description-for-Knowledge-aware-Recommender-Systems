@@ -25,6 +25,8 @@
 
 
 
+
+
 - ### MovieLen + IMDb
 
 > **Descriptions:** The combination of MovieLens and IMDb datasets, named MI, which are linked by the titles and release dates of movies. In particular, MovieLens offers the user-item interaction data, while IMDb offers the item-item interaction data, which serves as the KG part that contains auxiliary information on movies, such as genre, actor, director, and writer. The two datasets are linked by the titles and release dates
@@ -50,6 +52,8 @@
 | ---------------------------------------- |
 | Explainable Reasoning over Knowledge Graphs for Recommendation **(V1)** |
 | Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation **(V2)** |
+
+
 
 
 
@@ -82,6 +86,8 @@
 
 
 
+
+
 - ### Bing-News
 
 > **Descriptions:** Bing-News dataset contains  the server logs of Bing News from October 16, 2016 to August 11, 2017. Each piece of news has a title and a snippet.
@@ -102,6 +108,8 @@
 | RippleNet: Propagating User Preferences on the Knowledge Graph for Recommender Systems |
 | Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation |
 | DKN: Deep Knowledge-Aware Network for News Recommendation |
+
+
 
 
 
@@ -133,6 +141,8 @@
 | KGAT: Knowledge Graph Attention Network for Recommendation **(V1)** |
 | Knowledge Graph Convolutional Networks for Recommender Systems **(V2)** |
 | Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation **(V2)** |
+
+
 
 
 
@@ -176,6 +186,8 @@
 
 
 
+
+
 - ### KKBox
 
 > **Descriptions:** This dataset is adopted from the WSDM Cup 2018 Challenge7 and is provided by the music streaming service KKBox. Besides the user-item interaction data, this dataset also contains
@@ -206,6 +218,8 @@
 
 
 
+
+
 - ### MSN News (For news recommendation particularly)
 
 > **Descriptions:** This dataset was constructed by randomly sampling user logs from MSN News
@@ -229,6 +243,8 @@
 
 
 
+
+
 - ### Amazon-book
 
 > **Description:** Amazon-review is a widely used dataset for product recommendation [10]. We select Amazon-book from this collection.
@@ -247,6 +263,8 @@
 | Papers utilizing the dataset             |
 | ---------------------------------------- |
 | KGAT: Knowledge Graph Attention Network for Recommendation |
+
+
 
 
 
