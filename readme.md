@@ -1,5 +1,5 @@
 - ### MovieLens
-> **Descriptions:** MovieLens is a widely used benchmark dataset in movie recommendations. Among them, MovieLens-1M consists of approximately 1 million explicit ratings (ranging from 1 to 5) on the MovieLens website while MovieLens-2M consists of approximately 20 million explicit ratings (ranging from 1 to 5) on the Movie- Lens website.
+> **Descriptions:** MovieLens is a widely used benchmark dataset in movie recommendations. Among them, MovieLens-1M consists of approximately 1 million explicit ratings (ranging from 1 to 5) on the MovieLens website while MovieLens-20M consists of approximately 20 million explicit ratings (ranging from 1 to 5) on the Movie- Lens website.
 
 |                    | Statistics(V1) | Statistics(V2) |
 | ------------------ | -------------- | -------------- |
