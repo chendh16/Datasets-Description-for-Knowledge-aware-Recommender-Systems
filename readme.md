@@ -23,7 +23,8 @@
 | Knowledge Graph Convolutional Networks for Recommender Systems **(V2)** |
 
 
-
+&nbsp
+&nbsp
 
 
 - ### MovieLen + IMDb
