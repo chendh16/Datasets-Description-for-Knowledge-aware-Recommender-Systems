@@ -24,7 +24,7 @@
 
 
 <br/>
-
+<br/>
 
 
 - ### MovieLen + IMDb
@@ -53,8 +53,8 @@
 | Explainable Reasoning over Knowledge Graphs for Recommendation **(V1)** |
 | Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation **(V2)** |
 
-
-
+<br/>
+<br/>
 
 
 - ### Book-Crossing 
@@ -84,8 +84,8 @@
 | Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation **(V2)** |
 | Knowledge Graph Convolutional Networks for Recommender Systems **(V3)** |
 
-
-
+<br/>
+<br/>
 
 
 - ### Bing-News
@@ -110,8 +110,8 @@
 | DKN: Deep Knowledge-Aware Network for News Recommendation |
 
 
-
-
+<br/>
+<br/>
 
 - ### Last.FM
 
@@ -143,8 +143,8 @@
 | Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation **(V2)** |
 
 
-
-
+<br/>
+<br/>
 
 - ### Amazon e-commerce datasets collection 
 
@@ -184,8 +184,8 @@
 | ---------------------------------------- |
 | Reinforcement Knowledge Graph Reasoning for Explainable Recommendation |
 
-
-
+<br/>
+<br/>
 
 
 - ### KKBox
@@ -217,8 +217,8 @@
 | Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation **(V2)** |
 
 
-
-
+<br/>
+<br/>
 
 - ### MSN News (For news recommendation particularly)
 
@@ -242,8 +242,8 @@
 | NPA: Neural News Recommendation with Personalized Attention **(V2)** |
 
 
-
-
+<br/>
+<br/>
 
 - ### Amazon-book
 
@@ -264,8 +264,8 @@
 | ---------------------------------------- |
 | KGAT: Knowledge Graph Attention Network for Recommendation |
 
-
-
+<br/>
+<br/>
 
 
 - ### Yelp2018
