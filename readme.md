@@ -132,7 +132,7 @@
 
 > **Link:**
 >
-> V1:  https://github.com/xiangwang1223/knowledge_graph_attention_network/tree/master/Data/yelp2018>
+> V1: <https://github.com/xiangwang1223/knowledge_graph_attention_network/tree/master/Data/yelp2018>
 >
 > V2: <https://github.com/hwwang55/KGCN/tree/master/data/music>
 
